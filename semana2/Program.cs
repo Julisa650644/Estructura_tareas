@@ -13,5 +13,5 @@ class Program
         FiguraGeometrica r = new Rectangulo(10, 4);
         Console.WriteLine("\nRectángulo:");
         r.MostrarResultados();
-    }
+    }  //fin
 }
