@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\bin\Debug\net9.0\ejer_1.exe
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\bin\Debug\net9.0\ejer_1.deps.json
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\bin\Debug\net9.0\ejer_1.runtimeconfig.json
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\bin\Debug\net9.0\ejer_1.dll
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\bin\Debug\net9.0\ejer_1.pdb
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\obj\Debug\net9.0\ejer_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\obj\Debug\net9.0\ejer_1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\obj\Debug\net9.0\ejer_1.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\obj\Debug\net9.0\ejer_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\obj\Debug\net9.0\ejer_1.sourcelink.json
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\obj\Debug\net9.0\ejer_1.dll
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\obj\Debug\net9.0\refint\ejer_1.dll
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\obj\Debug\net9.0\ejer_1.pdb
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\obj\Debug\net9.0\ejer_1.genruntimeconfig.cache
+C:\Users\User\Desktop\Proyectos_C\semana07\Ejer_1\ejer_1\obj\Debug\net9.0\ref\ejer_1.dll
